@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* DEBUG: regla temporal para comprobar si `index.css` se carga */
+body { outline: 6px solid magenta !important; }
