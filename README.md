@@ -76,7 +76,7 @@ FireX/
 ## Diseño de Base de Datos
 
 ### Diagrama 
-![Diagrama de base de datos](./images/tienda_db.png)
+![Diagrama de base de datos](./images/nosql.png)
 
 ---
 
