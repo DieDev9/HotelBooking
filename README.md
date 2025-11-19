@@ -249,8 +249,8 @@ A continuación se muestran imágenes representativas del funcionamiento del sis
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/<usuario>/firex.git
-cd firex
+git clone https://github.com/username/HotelBooking
+cd HotelBooking
 ```
 
 ### 2. Iniciar el Backend
@@ -259,7 +259,7 @@ cd backend
 mvn clean install
 mvn spring-boot:run
 ```
-Disponible en http://localhost:8066
+Disponible en http://localhost:8090
 
 ### 3. Servir el Frontend
 ```bash
@@ -281,7 +281,7 @@ mvn test
 
 ## Documentación de la API
 Swagger UI:  
-http://localhost:8066/swagger-ui/index.html
+http://localhost:8090/swagger-ui/index.html
 
 ---
 
