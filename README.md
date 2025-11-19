@@ -32,7 +32,7 @@ Componentes del proyecto:
 - Lombok  
 - Maven  
 
-### Frontend (estático)
+### Frontend 
 - React 18 (componentes funcionales y hooks)
 - JavaScript ES6+
 - Vite para el entorno de desarrollo
