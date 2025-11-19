@@ -46,7 +46,7 @@ Componentes del proyecto:
 ## Arquitectura General
 
 ```
-FireX/
+HotelBooking/
 ├── backend/               
 │   ├── controllers/
 │   ├── dto/
@@ -220,7 +220,7 @@ spring.data.mongodb.auto-index-creation = true
 
 ## Galería del Proyecto (Evidencias Frontend)
 
-A continuación se muestran imágenes representativas del funcionamiento del sistema FireX Hub.
+A continuación se muestran imágenes representativas del funcionamiento de HotelBooking.
 
 ### Página de Inicio
 ![Inicio](./images/inicio.png)
