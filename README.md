@@ -218,30 +218,11 @@ spring.data.mongodb.auto-index-creation = true
 
 
 
-## Galería del Proyecto (Evidencias Frontend)
+## Demo del Proyecto (Evidencias Frontend)
 
-A continuación se muestran imágenes representativas del funcionamiento de HotelBooking.
+A continuación se muestra de forma representativa el funcionamiento de HotelBooking.
 
-### Página de Inicio
-![Inicio](./images/inicio.png)
-
-### Login de Usuario
-![Login](./images/login.png)
-
-### Catálogo de Productos
-![Catálogo](./images/catalogo.png)
-
-### Panel de Administración
-![Panel Admin](./images/admin.png)
-
-### CRUD de Productos
-![CRUD Productos](./images/crud_productos.png)
-
-### CRUD de Categorías
-![CRUD Categorías](./images/crud_categoria.png)
-
-### CRUD de Usuarios
-![CRUD Categorías](./images/crud_usuarios.png)
+![Demo del Frontend](./images/demo.gif)
 
 ---
 
