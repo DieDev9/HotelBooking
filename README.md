@@ -223,7 +223,6 @@ spring.data.mongodb.auto-index-creation = true
 A continuación se muestra de forma representativa el funcionamiento de HotelBooking.
 
 ![Demo del Frontend](./images/demo.gif)
-<img src="./images/demo.gif" alt="Demo del Frontend" />
 
 ---
 
